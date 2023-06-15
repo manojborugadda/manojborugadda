@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojborugadda&label=Profile%20views&color=0e75b6&style=flat" alt="manojborugadda" /> </p>
 
-- 🔭 I’m currently working on ** GraphQL,REST APIs & gRPC **
+- 🔭 I’m currently working on ** GraphQL,REST APIs **
 
 - 🌱 I’m currently learning **Go**
 
@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **Cloud,Serverless and Containers**
 
-- 💬 Ask me about **Data Structures and Algorithms,System Design**
+- 💬 Ask me about **Data Structures and Algorithms, System Design**
 
 - 📫 How to reach me **borugadda.manoj@gmail.com**
 
-- ⚡ Fun fact **I am die hard fan of Novak Djokovic and Daniil Medvedev**
+- ⚡ Fun fact **I am a die-hard fan of Novak Djokovic and Daniil Medvedev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
