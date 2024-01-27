@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ** GraphQL,REST APIs **
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Backend Development and Machine Learning stuff**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **borugadda.manoj@gmail.com**
 
-- ⚡ Fun fact **I am a die-hard fan of Novak Djokovic and Daniil Medvedev**
+- ⚡ Fun fact **I am a die-hard fan of Novak Djokovic and Daniil Medvedev and his best friend Stefanos Tsistipas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
