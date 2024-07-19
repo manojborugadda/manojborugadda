@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ** GraphQL,REST APIs **
 
-- 🌱 I’m currently learning **GitHub Actions**
+- 🌱 I’m currently learning **CloudOps**
 
 - 👯 I’m looking to collaborate on **Backend Development and Machine Learning stuff**
 
