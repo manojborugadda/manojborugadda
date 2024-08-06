@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CloudOps**
 
-- 👯 I’m looking to collaborate on **Backend Development and Machine Learning stuff**
+- 👯 I’m looking to collaborate on **Backend Development and DevOps stuff**
 
 - 🤝 I’m looking for help with **Cloud,Serverless and Containers**
 
