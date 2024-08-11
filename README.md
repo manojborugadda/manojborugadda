@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Borugadda</h1>
 <h3 align="center">A passionate Software Developer from Vijayawada,India.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/coding-engineering-anand-TilmLMmWrRYYHjLfub">
+<!-- <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/coding-engineering-anand-TilmLMmWrRYYHjLfub"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojborugadda&label=Profile%20views&color=0e75b6&style=flat" alt="manojborugadda" /> </p>
 
