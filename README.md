@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **borugadda.manoj@gmail.com**
 
-- ⚡ Fun fact **I am a die-hard fan of Novak Djokovic , Daniil Medvedev and his best friend Stefanos Tsistipas**
+- ⚡ Fun fact **I am a die-hard fan of Big3 , Daniil Medvedev and his best friend Stefanos Tsistipas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
