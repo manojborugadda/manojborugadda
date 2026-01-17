@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojborugadda&label=Profile%20views&color=0e75b6&style=flat" alt="manojborugadda" /> </p>
 
-- 🔭 I’m currently working on ** GraphQL,REST APIs **
+- 🔭 I’m currently working on **REST APIs,Cloud Native tools **
 
-- 🌱 I’m currently learning **CloudOps**
+- 🌱 I’m currently learning **CloudOps,Machine Learning**
 
-- 👯 I’m looking to collaborate on **Backend Development and DevOps stuff**
+- 👯 I’m looking to collaborate on **Backend Development and ML/DevOps stuff**
 
 - 🤝 I’m looking for help with **Cloud,Serverless and Containers**
 
